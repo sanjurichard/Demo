@@ -8,6 +8,7 @@ class Main {
       reversed = reversed * 10 + digit;
     }
 
+    
     System.out.println("Reversed Number: " + reversed);
   }
 }
